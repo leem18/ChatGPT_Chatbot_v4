@@ -38,7 +38,7 @@ python app.py
 
 As an early exploration of ChatGPT v4, this project aims to leverage the model’s robust features in a self-contained environment. Whether you're looking to explore GPT-4's conversational capabilities, understand how to deploy large-scale models locally, or simply study API integration with advanced LLMs, this repository provides a comprehensive starting point.
 
-🧩 Customization and Further Development
+## 🧩 Customization and Further Development
 For those looking to expand on this project, consider the following:
 
 Experiment with API adjustments to fine-tune response latency and handling.
